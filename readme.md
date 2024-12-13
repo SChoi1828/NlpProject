@@ -11,3 +11,5 @@
 
 ## Table of contents
 * [01_preprocess_fail.ipynb](./01_preprocess_fail.ipynb)
+* [02_collection.ipynb](./02_collection.ipynb)
+* [03_1_preprocess.ipynb](./03_1_preprocess.ipynb)
