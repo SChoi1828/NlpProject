@@ -22,3 +22,4 @@
     * Removes unnecessary data prior to model training
 * [04_train_evaluate.ipynb](./04_train_evaluate.ipynb)
     * Trains and evaluates the ML model
+    * and all the suffering trying to adopt an unmaintained 4-year-old project
