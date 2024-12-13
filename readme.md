@@ -8,6 +8,8 @@
 * KoNLPy (https://github.com/konlpy/konlpy)
 ### Not referenced nor utilised but still included
 * [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/overview)
+### Caution
+* The dataset collected from DCInside may contain language that may be vulgar or considered controversial / NSFW; The data are provided as-is from the search result. Proceed with caution!
 
 ## Table of contents
 * [01_preprocess_fail.ipynb](./01_preprocess_fail.ipynb)
