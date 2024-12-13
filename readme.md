@@ -6,6 +6,8 @@
 ### Libraries / Projects utilised in this project (not exhaustive)
 * KoBERT (https://github.com/SKTBrain/KoBERT)
 * KoNLPy (https://github.com/konlpy/konlpy)
+### Not referenced nor utilised but still included
+* [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/overview)
 
 ## Table of contents
 * [01_preprocess_fail.ipynb](./01_preprocess_fail.ipynb)
